@@ -16,15 +16,20 @@ specifically via the endpoint https://api.frankfurter.dev/v1/.
 
 ## Showcase
 ![Screen 1](./showcase/1.png)
-<hr>
+
+
 ![Screen 2](./showcase/2.png)
-<hr>
+
+
 ![Screen 3](./showcase/3.png)
-<hr>
+
+
 ![Screen 4](./showcase/4.png)
-<hr>
+
+
 ![Screen 5](./showcase/5.png)
-<hr>
+
+
 ![Screen 6](./showcase/6.png)
 
 ## Technologies used
