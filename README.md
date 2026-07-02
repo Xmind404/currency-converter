@@ -14,6 +14,14 @@ specifically via the endpoint https://api.frankfurter.dev/v1/.
 - Checking the rise and fall of a specific currency
 - Converting currency from one to another
 
+## Showcase
+./showcase/1.png
+./showcase/2.png
+./showcase/3.png
+./showcase/4.png
+./showcase/5.png
+./showcase/6.png
+
 ## Technologies used
 
 - [FrankFurter API](https://frankfurter.dev/)
